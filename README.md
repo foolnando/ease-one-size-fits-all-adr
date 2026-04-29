@@ -1,0 +1,1 @@
+# ease-one-size-fits-all-adr
